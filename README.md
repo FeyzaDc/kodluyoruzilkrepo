@@ -20,4 +20,4 @@ Linux için:
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
 
 ## License
-[MIT](https://web.mit.edu/)
+[MIT](https://github.com/FeyzaDc/kodluyoruzilkrepo/blob/main/LICENSE)
