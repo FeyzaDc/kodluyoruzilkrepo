@@ -1,3 +1,5 @@
+![Logo](https://cdn.sanity.io/images/9kdepi1d/production/65c832d202a503b15d99e628f4313782f3ef50db-300x62.png)
+
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
@@ -7,7 +9,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.  
-Linux için:
+Linux için:  
 ` cd kodluyoruzilkrepo `  
 `code . `
 
@@ -16,5 +18,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://web.mit.edu/)
-
-![Logo](https://cdn.sanity.io/images/9kdepi1d/production/65c832d202a503b15d99e628f4313782f3ef50db-300x62.png)
